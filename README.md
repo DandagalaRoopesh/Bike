@@ -506,3 +506,6 @@ purposes. Add an appropriate open-source license before public
 distribution if required.
 
 Link to the application which is deployed in streamlit :[ https://9sroq4verpiaypfy6bxztg.streamlit.app/](_url_)
+
+copy this link and open in another tab for UI experience.
+
