@@ -504,3 +504,5 @@ deployment, and monitoring.
 This project is intended for educational, portfolio, and demonstration
 purposes. Add an appropriate open-source license before public
 distribution if required.
+
+Link to the application which is deployed in streamlit :[ https://9sroq4verpiaypfy6bxztg.streamlit.app/](_url_)
